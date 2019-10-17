@@ -12,6 +12,7 @@ gem 'bootsnap'
 group :development, :test do
   gem 'capybara'
   gem 'pry'
+  gem 'faker'
 end
 
 group :development do
